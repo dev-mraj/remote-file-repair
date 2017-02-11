@@ -10,11 +10,11 @@ put your file in public folder for both server and client
 
 On Server Machine 
 
-node server.js
+`node server.js`
 
 On Local Machine
 
-node repair.js local_file.iso remote_file_name.iso remote_server.com:3561
+`node repair.js local_file.iso remote_file_name.iso remote_server.com:3561`
 
 
 **TODO::**
